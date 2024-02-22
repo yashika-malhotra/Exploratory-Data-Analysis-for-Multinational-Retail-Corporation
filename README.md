@@ -1,8 +1,8 @@
 # Walmart Business Case Study
 <div align="center">
-  <img src="https://github.com/yashika-malhotra/Walmart-Business-Case-Study/assets/154385962/24246d7f-b8f1-4ff8-8c66-142999cd9f9a" width = 230 height =210/>
-  <img src="https://github.com/yashika-malhotra/Walmart-Business-Case-Study/assets/154385962/94c9b804-ebb0-41c3-b9cc-277e529b9561" width = 210 height =210/>
-  <img src="https://github.com/yashika-malhotra/Walmart-Business-Case-Study/assets/154385962/46770af5-bfed-4b53-a42c-312423b92823" width = 230 height =210/>
+  <img src="https://github.com/yashika-malhotra/Walmart-Business-Case-Study/assets/154385962/24246d7f-b8f1-4ff8-8c66-142999cd9f9a" width = 200 height =150/>
+  <img src="https://github.com/yashika-malhotra/Walmart-Business-Case-Study/assets/154385962/94c9b804-ebb0-41c3-b9cc-277e529b9561" width = 200 height =150/>
+  <img src="https://github.com/yashika-malhotra/Walmart-Business-Case-Study/assets/154385962/46770af5-bfed-4b53-a42c-312423b92823" width = 200 height =150/>
 </div>
 
 ## 📚 About Data
